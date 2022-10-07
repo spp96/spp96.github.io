@@ -21,9 +21,9 @@ A Passionate Developer,Who loves to create beautiful and functional websites.Pro
 
 📫 How to reach me: shubhamppatil1996@gmail.com <br>
 
-⚡ Know More About Experiance: [My Resume](https://drive.google.com/file/d/1arR68mJs-aLW1Nn_xY-EU7lXlZzptrxa/view?usp=sharing)<br>
+⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1arR68mJs-aLW1Nn_xY-EU7lXlZzptrxa/view?usp=sharing)<br>
 
-Want to know more about me? [Check out my portfolio](https://spp96.github.io/)
+Want to know more about me? [Check out My Portfolio](https://spp96.github.io/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhampatil6670sp)
