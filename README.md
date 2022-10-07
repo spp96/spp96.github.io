@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102204260/192700068-98ad5312-13c4-49ba-bc0a-d3de1fb9d5fb.gif">
 
 ### Summary
-I'm a Passionate Developer, I love to create beautiful and functional websites.Proficient in Web Development, HTML, CSS, JavaScript, Java,Data Structure And Algorithm. Seeking to further improve skills as the future full stack developer at Atmospheric Solutions.I am Passionate to learn new technology, new things to explore and want to improve my skills.
+A Passionate Developer,Who loves to create beautiful and functional websites.Proficient in Web Development, HTML, CSS, JavaScript, Java,Data Structure And Algorithms. Seeking to further improve skills as the future full stack developer at Atmospheric Solutions.Passionate to learn new technology, new things to explore and want to improve my skills.
 
 
 # 💫 About Me:
@@ -21,7 +21,7 @@ I'm a Passionate Developer, I love to create beautiful and functional websites.P
 
 📫 How to reach me: shubhamppatil1996@gmail.com <br>
 
-⚡ Know More About Experiance: [My Resume](https://drive.google.com/file/d/1J7GpuCJ1qZex9PY8XEDyQ-yPxUqFwjvW/view?usp=sharing)<br>
+⚡ Know More About Experiance: [My Resume](https://drive.google.com/file/d/1arR68mJs-aLW1Nn_xY-EU7lXlZzptrxa/view?usp=sharing)<br>
 
 Want to know more about me? [Check out my portfolio](https://spp96.github.io/)
 
