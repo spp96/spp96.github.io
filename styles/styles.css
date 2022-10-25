@@ -312,20 +312,59 @@ section {
   width: 80%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 95%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 75%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .react {
-  width: 60%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 87%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .python {
   width: 70%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .js {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .bootstrap {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .java {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .api {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .python {
+  width: 30%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .npm {
+  width: 50%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .heroku {
+  width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .netlify {
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .mysql {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .github {
+  width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .git {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .hibernate {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .vscode {
+  width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .sts {
+  width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .intellij {
+  width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .intellij {
+  width: 60%;
+}
+/* .github-stats{
+  width: 100;
+} */
 
 .stat-title {
   text-transform: uppercase;
@@ -473,11 +512,20 @@ section {
 }
 
 .mainportfolio-sec{
-  border: 2px solid;
+  border: 3px solid;
   border-color: var(--box-shadow-1);
   padding: 20px;
   border-radius: 15px;
 }
+
+.mainportfolio-sec .portfolio_description{
+  padding-left: 5%;
+  margin-top: 5%;
+}
+
+.mainportfolio-sec .portfolio_description li{
+  list-style-type: disc;
+}  
 
 .contact-content-con {
   display: flex;
