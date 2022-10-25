@@ -472,6 +472,13 @@ section {
   transform: scale(1);
 }
 
+.mainportfolio-sec{
+  border: 2px solid;
+  border-color: var(--box-shadow-1);
+  padding: 20px;
+  border-radius: 15px;
+}
+
 .contact-content-con {
   display: flex;
   padding-top: 3.5rem;
