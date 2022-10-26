@@ -360,7 +360,7 @@ section {
   width: 80%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .intellij {
-  width: 60%;
+  width: 80%;
 }
 /* .github-stats{
   width: 100;
@@ -728,7 +728,7 @@ section {
   .controls .control {
     margin: 1rem 0.3rem;
   }
-
+  
   .about-container {
     grid-template-columns: repeat(1, 1fr);
   }
