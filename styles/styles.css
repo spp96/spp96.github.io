@@ -514,8 +514,12 @@ section {
 .mainportfolio-sec{
   border: 3px solid;
   border-color: var(--box-shadow-1);
-  padding: 20px;
+  padding: 10px;
   border-radius: 15px;
+}
+.mainportfolio-sec h4{
+  text-align: center;
+  margin-bottom: 2.5%;
 }
 
 .mainportfolio-sec .portfolio_description{
@@ -525,6 +529,7 @@ section {
 
 .mainportfolio-sec .portfolio_description li{
   list-style-type: disc;
+  font-size: small;
 }  
 
 .contact-content-con {
