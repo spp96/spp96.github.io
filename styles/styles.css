@@ -802,6 +802,10 @@ section {
   .main-title h2 .bg-text {
     font-size: 2.3rem;
   }
+  .css-kn67p{
+    display: flex;
+    flex-direction: column;
+  }
 }
 @media screen and (max-width: 1432px) {
   .container {
@@ -832,10 +836,18 @@ section {
   .header-content .right-header {
     padding-right: 9rem;
   }
+  .css-kn67p{
+    display: flex;
+    flex-direction: column;
+  }
 }
 @media screen and (max-width: 660px) {
   .portfolios {
     grid-template-columns: repeat(1, 1fr);
+  }
+  .css-kn67p{
+    display: flex;
+    flex-direction: column;
   }
 }
 @media screen and (max-width: 1070px) {
@@ -854,6 +866,10 @@ section {
   }
   .main-title h2 .bg-text {
     font-size: 4.5rem;
+  }
+  .css-kn67p{
+    display: flex;
+    flex-direction: column;
   }
 }
 @media screen and (max-width: 970px) {
@@ -889,6 +905,10 @@ section {
     text-align: center;
     padding-top: 3rem;
   }
+  .css-kn67p{
+    display: flex;
+    flex-direction: column;
+  }
 }
 @media screen and (max-width: 700px) {
   .container {
@@ -916,5 +936,18 @@ section {
   .main-title h2 .bg-text {
     font-size: 4rem;
   }
+  .css-kn67p{
+    display: flex;
+    flex-direction: column;
+  }
+}
+.calendar{
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.calendar:hover{
+  background-color:var(--color-grey-6);
 }
 
