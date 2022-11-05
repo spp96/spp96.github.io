@@ -111,6 +111,25 @@ section {
   margin: 0.7rem 0;
   box-shadow: var(--box-shadow-1);
 }
+
+.controls .resume {
+  padding: 1rem;
+  cursor: pointer;
+  background-color: var(--color-grey-4);
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0.7rem 0;
+  box-shadow: var(--box-shadow-1);
+}
+.controls .resume i{
+  font-size: 1.2rem;
+  color: var(--color-grey-2);
+  pointer-events: none;
+}
 .controls .control i {
   font-size: 1.2rem;
   color: var(--color-grey-2);
@@ -511,26 +530,26 @@ section {
   transform: scale(1);
 }
 
-.mainportfolio-sec{
+.mainportfolio-sec {
   border: 3px solid;
   border-color: var(--box-shadow-1);
   padding: 10px;
   border-radius: 15px;
 }
-.mainportfolio-sec h4{
+.mainportfolio-sec h4 {
   text-align: center;
   margin-bottom: 2.5%;
 }
 
-.mainportfolio-sec .portfolio_description{
+.mainportfolio-sec .portfolio_description {
   padding-left: 5%;
   margin-top: 5%;
 }
 
-.mainportfolio-sec .portfolio_description li{
+.mainportfolio-sec .portfolio_description li {
   list-style-type: disc;
   font-size: small;
-}  
+}
 
 .contact-content-con {
   display: flex;
@@ -731,9 +750,12 @@ section {
     background-color: var(--color-grey-5);
   }
   .controls .control {
-    margin: 1rem 0.3rem;
+    margin: 1rem 0.1rem;
   }
-  
+  .controls .resume {
+    margin: 1rem 0.1rem;
+  }
+
   .about-container {
     grid-template-columns: repeat(1, 1fr);
   }
@@ -802,7 +824,7 @@ section {
   .main-title h2 .bg-text {
     font-size: 2.3rem;
   }
-  .css-kn67p{
+  .css-kn67p {
     display: flex;
     flex-direction: column;
   }
@@ -836,7 +858,7 @@ section {
   .header-content .right-header {
     padding-right: 9rem;
   }
-  .css-kn67p{
+  .css-kn67p {
     display: flex;
     flex-direction: column;
   }
@@ -845,7 +867,7 @@ section {
   .portfolios {
     grid-template-columns: repeat(1, 1fr);
   }
-  .css-kn67p{
+  .css-kn67p {
     display: flex;
     flex-direction: column;
   }
@@ -867,7 +889,7 @@ section {
   .main-title h2 .bg-text {
     font-size: 4.5rem;
   }
-  .css-kn67p{
+  .css-kn67p {
     display: flex;
     flex-direction: column;
   }
@@ -905,7 +927,7 @@ section {
     text-align: center;
     padding-top: 3rem;
   }
-  .css-kn67p{
+  .css-kn67p {
     display: flex;
     flex-direction: column;
   }
@@ -936,18 +958,17 @@ section {
   .main-title h2 .bg-text {
     font-size: 4rem;
   }
-  .css-kn67p{
+  .css-kn67p {
     display: flex;
     flex-direction: column;
   }
 }
-.calendar{
+.calendar {
   color: white;
   padding: 10px;
   font-weight: bold;
 }
 
-.calendar:hover{
-  background-color:var(--color-grey-6);
+.calendar:hover {
+  background-color: var(--color-grey-6);
 }
-
