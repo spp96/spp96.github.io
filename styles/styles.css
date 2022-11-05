@@ -750,10 +750,10 @@ section {
     background-color: var(--color-grey-5);
   }
   .controls .control {
-    margin: 1rem 0.1rem;
+    margin: 1rem 0.3rem;
   }
   .controls .resume {
-    margin: 1rem 0.1rem;
+    margin: 1rem 0.3rem;
   }
 
   .about-container {
