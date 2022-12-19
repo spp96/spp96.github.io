@@ -10,4 +10,10 @@
     document.querySelector(".theme-btn").addEventListener("click", () => {
         document.body.classList.toggle("light-mode");
     })
+
 })();
+
+document.querySelector('.main-btn').onclick = function () {
+    var viewResume = window.open('./Resume/Shubham_Patil_Resume.pdf', '_blank');
+    viewResume.location
+  }
