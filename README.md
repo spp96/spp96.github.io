@@ -7,7 +7,10 @@
 
 
 ### Summary
-A passionate Developer, who loves to create beautiful and functional websites. proficient in Web Development, HTML, CSS, JavaScript, Java, Data Structure And Algorithms.Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. Looking further to enhance my skills as a full-stack developer.
+Passionate Java developer with a strong interest in backend development. Proficient in Java programming language
+and familiar with Spring and Hibernate frameworks. Possess a good understanding of database concepts and
+experience working with MySQL databases. Proven ability to learn quickly, and work effectively in teams. Seeking a
+challenging role to further develop my skills and contribute to the growth of an innovative organization.
 
 
 # 💫 About Me:
